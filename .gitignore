@@ -160,5 +160,3 @@ cython_debug/
 #.idea/
 
 myvenv/
-settings.py
-requirements.txt
